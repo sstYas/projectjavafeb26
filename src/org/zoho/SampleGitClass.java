@@ -14,9 +14,16 @@ public class SampleGitClass {
 		
 		int a1 = 4443;
 		System.out.println(a1);
+		long b = 7887877;
 		
+		if (b==565) {
+			System.out.println("Condition True ");
+		}
 		
-		
+		else {
+			System.out.println("Condttion false ");
+		}
+		System.out.println("Arafath Work Done ");
 	}
 	
 	
